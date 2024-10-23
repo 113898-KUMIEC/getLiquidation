@@ -1,0 +1,37 @@
+{
+  "liquidation_expense": {
+    "period": "October 2024",
+    "ordinary": {
+      "charges": [
+        {
+          "description": "Water service",
+          "amount": 1500
+        },
+        {
+          "description": "Electricity service",
+          "amount": 3000
+        }
+      ],
+      "total_amount": 4500
+    },
+    "extraordinary": {
+      "charges": [
+        {
+          "description": "Building maintenance",
+          "amount": 2000
+        },
+        {
+          "description": "Algo",
+          "amount": 1000
+        }
+      ],
+      "total_amount": 3000
+    },
+    "budget": {
+      "collected_in_month": 1000,
+      "spent_in_month": 0,
+      "total_collected_until_month": 5000,
+      "total_amount": 6000
+    }
+  }
+}
